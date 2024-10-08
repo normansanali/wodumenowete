@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wodumenowete.pages.dev/sitemap.xml
